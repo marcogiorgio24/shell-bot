@@ -17,7 +17,8 @@
     "mime": "1",
     "node-pty": "^0.9.0",
     "node-termios": "0.0.13",
-    "terminal.js": "1.0.9"
+    "terminal.js": "1.0.9",
+    "apt": "x"
   },
   "optionalDependencies": {
     "https-proxy-agent": "^5.0.0",
